@@ -4,4 +4,6 @@
 	define('DT_MEMBER', true);
 	echo "git tracks changes";
 	echo "111";
+	echo "二波";
+	echo "122";
 ?>
